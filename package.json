@@ -1,6 +1,6 @@
 {
   "name": "terminal-status",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple module to update a structured status in terminal for the running program.",
   "main": "lib/Status.js",
   "scripts": {
