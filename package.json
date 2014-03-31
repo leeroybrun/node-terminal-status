@@ -1,7 +1,7 @@
 {
   "name": "terminal-status",
   "version": "0.0.1",
-  "description": "Simple module to update a status in terminal for the running program.",
+  "description": "Simple module to update a structured status in terminal for the running program.",
   "main": "lib/Status.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
